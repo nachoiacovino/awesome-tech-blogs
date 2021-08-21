@@ -245,7 +245,9 @@ module.exports = [
       'JavaScript',
       'Web Development',
       'React',
-      'Next.js',
+      '.
+      
+      .js',
       'Front End',
       'Node.js',
       'Bootstrap',
@@ -519,6 +521,23 @@ module.exports = [
       'Jamstack',
       'Refactoring'
     ],
+  },
+   {
+  name: 'Nacho Iacovino',
+  description: 'I\'m a Frontend developer and Developer Relations, I share resources, tips and guides on web development. I like talking about best practices and new technologies. My favorite stack is Next.js and Tailwind CSS.',
+  url: 'https://nachoiacovino.com/blog',
+  twitter: '@nachoiacovino',
+  tags: [
+  'TailwindCSS',
+    'React',
+    'Next.js'
+    'Resources'
+    'Front End',
+    'JavaScript',
+    'Web Development',
+    'CSS',
+    'HTML',
+  ]
   },
   {
     name: 'Ramya Chinnadurai (Rams)',
